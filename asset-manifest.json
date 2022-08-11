@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/searchDatabase/static/css/main.d1b05096.chunk.css",
+    "main.js": "/searchDatabase/static/js/main.7c2e5812.chunk.js",
+    "main.js.map": "/searchDatabase/static/js/main.7c2e5812.chunk.js.map",
+    "runtime-main.js": "/searchDatabase/static/js/runtime-main.832f0bb0.js",
+    "runtime-main.js.map": "/searchDatabase/static/js/runtime-main.832f0bb0.js.map",
+    "static/js/2.08431e12.chunk.js": "/searchDatabase/static/js/2.08431e12.chunk.js",
+    "static/js/2.08431e12.chunk.js.map": "/searchDatabase/static/js/2.08431e12.chunk.js.map",
+    "index.html": "/searchDatabase/index.html",
+    "precache-manifest.6c8ec8dc4da5aebade6219052a3b4c84.js": "/searchDatabase/precache-manifest.6c8ec8dc4da5aebade6219052a3b4c84.js",
+    "service-worker.js": "/searchDatabase/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/searchDatabase/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.08431e12.chunk.js.LICENSE.txt": "/searchDatabase/static/js/2.08431e12.chunk.js.LICENSE.txt",
+    "static/js/main.7c2e5812.chunk.js.LICENSE.txt": "/searchDatabase/static/js/main.7c2e5812.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.832f0bb0.js",
+    "static/js/2.08431e12.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.7c2e5812.chunk.js"
+  ]
+}
